@@ -19,3 +19,6 @@ This repository contains Python solutions to a variety of problems. The problems
 
 ### Repository
 https://github.com/Rishikeshgawali/Python_Programming
+
+### Author
+**RISHIKESH BHARAT GAWALI**
